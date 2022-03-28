@@ -1,0 +1,118 @@
+{
+    "Hero": [
+      {
+        "id": 1,
+        "name": "Hoolk",
+        "descripcion": "Heroe Hollk",
+        "imagen": "https://cdn.pixabay.com/photo/2015/03/11/01/33/hulk-667988_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Doctor Strange",
+        "descripcion": "Heroe Doctor Strange",
+        "imagen": "https://cdn.pixabay.com/photo/2021/07/20/14/59/iron-man-6480952_960_720.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Wanda Maximoff",
+        "descripcion": "Heroe Wanda Maximoff",
+        "imagen": "https://cdn.pixabay.com/photo/2018/02/17/12/29/young-3159858_960_720.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dead Pool",
+        "descripcion": "loeoroeoreoroeoe",
+        "imagen": "https://cdn.pixabay.com/photo/2019/03/21/02/51/deadpool-4070071_960_720.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Airon Man",
+        "descripcion": "loroeoeoeoeooerqwrewrqwet",
+        "imagen": "https://cdn.pixabay.com/photo/2020/10/14/14/25/deadpool-5654507_960_720.png"
+      },
+      {
+        "id": 6,
+        "name": "Spider man",
+        "descripcion": "lorememeememmemeemme",
+        "imagen": "https://cdn.pixabay.com/photo/2018/04/10/22/18/spiderman-3309033_960_720.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Cat",
+        "descripcion": "lorememmememememmeme",
+        "imagen": "https://cdn.pixabay.com/photo/2018/03/01/06/35/cat-3189845_960_720.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Batman",
+        "descripcion": "lorememememmemelsod lsodsdsdkfdmsfk",
+        "imagen": "https://cdn.pixabay.com/photo/2020/03/19/07/28/batman-4946610_960_720.jpg"
+      } 
+    ],
+    "productos": [
+      { 
+        "id": 1,
+        "name": "Peluche Deadpool",
+        "imagen": "https://cdn4.iconfinder.com/data/icons/heroes-villains-vol-1-colored/100/Deadpool-512.png",
+        "descripcion": "Peluche Mide Aprox.20cm Fabricado por Kidrobot Hipoalergénico",
+        "precio": 119
+      },
+      {
+        "id": 2,
+        "name": "Mascara",
+        "imagen": "https://cdn0.iconfinder.com/data/icons/famous-characters-add-on-vol-2-glyph/48/Sed-06-512.png",
+        "descripcion": "Peluche Mide Aprox.20cm Fabricado por Kidrobot Hipoalergénico",
+        "precio": 50
+      },
+      {
+        "id": 3,
+        "name": "Mascara",
+        "imagen": "https://cdn2.iconfinder.com/data/icons/heroes-villains-vol-2-colored-1/100/Nebula-512.png",
+        "descripcion": "Villans Aprox.20cm Fabricado por Kidrobot Hipoalergénico",
+        "precio": 80
+      },
+      {
+        "id": 4,
+        "name": "Iron Man",
+        "imagen": "https://cdn.pixabay.com/photo/2020/11/28/03/19/iron-man-5783522_960_720.png",
+        "descripcion": "Peluche Mide Aprox.20cm Fabricado por Kidrobot Hipoalergénico",
+        "precio": 80
+      },
+      {
+        "id": 5,
+        "name": "Iron Man",
+        "imagen": "https://cdn3.iconfinder.com/data/icons/marvel-avatars-filledoutline/64/ironman-avangers-marvel-avatars-gartoon-marvel_avatars-hero-512.png",
+        "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa.",
+        "precio": 20
+      },
+      {
+        "id": 6,
+        "name": "Delivery a toda la ciudad",
+        "imagen": "https://cdn3.iconfinder.com/data/icons/marvel-avatars-filledoutline/64/ironman-avangers-marvel-avatars-gartoon-marvel_avatars-hero-512.png",
+        "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa.",
+        "precio": 20
+      },
+      {
+        "id": 7,
+        "name": "Delivery a toda la ciudad",
+        "imagen": "https://cdn.pixabay.com/photo/2020/11/28/03/19/iron-man-5783522_960_720.png",
+        "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa.",
+        "precio":129
+      },
+      {
+        "id": 8,
+        "name": "Delivery a toda la ciudad",
+        "imagen": "https://cdn.pixabay.com/photo/2021/04/20/03/40/captain-america-6192855_960_720.png",
+        "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa.",
+        "precio":123
+
+      },
+      {
+        "id": 9,
+        "name": "Delivery a toda la ciudad",
+        "imagen": "https://cdn.pixabay.com/photo/2021/01/29/03/44/hulk-5959620_960_720.png",
+        "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa.",
+        "precio":250
+      }
+    ]
+  }
